@@ -500,7 +500,7 @@ nav a {
     }
     
     /* Media Queries */
-    @media (min-width: 768px) {
+    @media (min-width: 100%) {
         .home-section {
             flex-direction: row;
             text-align: left;
