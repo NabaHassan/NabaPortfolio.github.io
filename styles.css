@@ -502,7 +502,7 @@ nav a {
     /* Media Queries */
     @media (min-width: 100%) {
         .home-section {
-            flex-direction: column;
+            flex-direction: row;
             text-align: left;
         }
     
@@ -521,7 +521,7 @@ nav a {
         }
     
         .about-content {
-            flex-direction: row;
+            flex-direction: column;
         }
     
         .project-card {
