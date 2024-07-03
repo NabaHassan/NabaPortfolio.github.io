@@ -530,9 +530,9 @@ nav a {
         }
     }
     
-    @media (max-width: 767px){
+    @media (max-width: 100%){
             .home-section {
-                flex-direction: column;
+                flex-direction: row;
             }
     
             .profile-pic img {
